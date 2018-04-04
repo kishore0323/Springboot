@@ -1,0 +1,10 @@
+insert into student
+values(10001,'Mark Zuckerberg', 'E1234567');
+insert into student
+values(10002,'Tim Cook', 'A1234568');
+insert into student
+values(10003,'Larry Page', 'EG334521');
+insert into student
+values(10004,'Sundar Pichai', 'TF43590');
+insert into student
+values(10005,'Satya Nadella', 'OP45600');
